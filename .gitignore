@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Changes history
+*.history
+
+# Node package
+package*
+!application/*
